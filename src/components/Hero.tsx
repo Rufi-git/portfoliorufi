@@ -1,5 +1,5 @@
 import Myphoto from "../assets/myphoto.png"
-import Myphoto2 from "../assets/myphoto2.png"
+// import Myphoto2 from "../assets/myphoto2.png"
 
 const Hero = () => {
     return (
