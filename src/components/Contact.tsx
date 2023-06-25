@@ -3,7 +3,7 @@ const Contact = () => {
         <div className="my-[140px] px-4 max-w-[1240px] mx-auto">
             <div className="text-center">
                 <h6 className="font-semibold text-[#4a6cf8]">Contact With Me</h6>
-                <h1 className="text-[30px] md:text-[40px] font-bold">Have an Project in Mind?</h1>
+                <h1 className="text-[25px] md:text-[40px] font-bold">Have an Project in Mind?</h1>
                 <p className="text-[#959cb1] font-semibold max-w-[700px] mx-auto">There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form.</p>
             </div>
             <div className="md:px-4 mt-10">
